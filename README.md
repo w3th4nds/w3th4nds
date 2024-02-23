@@ -9,8 +9,9 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: left;">🖥 Your average **C** and **Assembly** enjoyer.</div>
-  <div style="text-align: right;">🐍 Writing **python** for the memes. </div>
+  <div style="text-align: left;"> 🖥 Your average **C** and **Assembly** enjoyer. </div>
+  
+  <div style="text-align: right;"> 🐍 Writing **python** for the memes. </div>
 </div>
 
 
