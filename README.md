@@ -17,10 +17,10 @@
 ### 💦 Creating **pwn** challenges for the pleasure. 
 
 <div align="center">
-  🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪
+  🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪     🟪
 </div>
 
-## There are plenty of repo's here, especially with write ups, guides and CTF's I created or participated.  
+## There are plenty of repo's here, especially with write ups, guides and CTF's I created or participated, my [Thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/4148) about **C/C++ Vulnerabilities and exploitation techniques** and many more to find out.
 
 Feel free to reach me:  
 * [🐦 Twitter](https://twitter.com/w3th4nds)
