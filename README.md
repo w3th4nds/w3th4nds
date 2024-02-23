@@ -1,5 +1,7 @@
 <div align="center">
-  ## Yo! A few things about me.. 
+  <h2>
+     Yo! A few things about me.. 
+  </h2>
 </div>
 
 <div align="center">
