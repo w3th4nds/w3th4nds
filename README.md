@@ -1,4 +1,6 @@
-## Yo! A few things about me.. 
+<div align="center">
+  ## Yo! A few things about me.. 
+</div>
 
 <div align="center">
   <img src="https://github.com/w3th4nds/w3th4nds/assets/44512151/90e3b9cc-f5c8-41e9-9fc5-03caedd9a674" alt="giphy">
