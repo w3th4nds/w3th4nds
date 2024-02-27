@@ -6,6 +6,8 @@
 
 <div align="center">
   <img src="https://github.com/w3th4nds/w3th4nds/assets/44512151/90e3b9cc-f5c8-41e9-9fc5-03caedd9a674" alt="giphy">
+</div>
+
 ![c-original](https://github.com/w3th4nds/w3th4nds/assets/44512151/6a0a64ca-58c6-4d0a-847c-66686f2c946d)
 
 
