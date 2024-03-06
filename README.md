@@ -26,7 +26,7 @@ Feel free to reach me:
 * [🐦 Twitter](https://twitter.com/w3th4nds)
 * [🔗 LinkedIn](https://www.linkedin.com/in/thanos-sarridis/)
 * [🕹 HackTheBox](https://app.hackthebox.com/profile/70668)
-* 👽 [Discord] (#w3th4nds)
+* 👽 [Discord] (w3th4nds)
 
 <div align="center">
   <img src="https://github.com/w3th4nds/w3th4nds/assets/44512151/b0684bc9-5974-453f-b770-f5fb9f6044f4" alt="giphy">
