@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/w3th4nds/w3th4nds/assets/44512151/90e3b9cc-f5c8-41e9-9fc5-03caedd9a674" alt="giphy">
+  <img src="https://media.giphy.com/media/NsZMcJizZmXwgIitaz/giphy.gif?cid=ecf05e47xrhyyexz9r046cqwi8q4sci7yyoiv7g7qbm4qq1u&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="giphy">
 </div>
 
 ### 🖥 Your average **C** and **Assembly** enjoyer.  
