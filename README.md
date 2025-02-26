@@ -8,6 +8,13 @@
   <img src="https://media.giphy.com/media/NsZMcJizZmXwgIitaz/giphy.gif?cid=ecf05e47xrhyyexz9r046cqwi8q4sci7yyoiv7g7qbm4qq1u&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="giphy">
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://media.tenor.com/oCunlz5KdXkAAAAi/glitter-lucky-pixel-gif.gif" alt="giphy">
+  <img src="https://media.tenor.com/wfczemgONfIAAAAi/glitter-sunny-pixel-gif.gif" alt="giphy">
+  <img src="https://media.tenor.com/L6EL0epwaZMAAAAi/precure-pixel.gif" alt="giphy">
+  <img src="https://media.tenor.com/ufK_mT82Mg4AAAAi/magical-girl-precure.gif" alt="giphy">
+</div>
+
 ### 🖥 Your average **C** and **Assembly** enjoyer.  
 
 ### 🐍 Writing **python** for the memes.   
