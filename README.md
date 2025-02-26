@@ -12,7 +12,6 @@
   <img src="https://media.tenor.com/oCunlz5KdXkAAAAi/glitter-lucky-pixel-gif.gif" alt="giphy">
   <img src="https://media.tenor.com/wfczemgONfIAAAAi/glitter-sunny-pixel-gif.gif" alt="giphy">
   <img src="https://media.tenor.com/L6EL0epwaZMAAAAi/precure-pixel.gif" alt="giphy">
-  <img src="https://media.tenor.com/ufK_mT82Mg4AAAAi/magical-girl-precure.gif" alt="giphy">
 </div>
 
 ### 🖥 Your average **C** and **Assembly** enjoyer.  
